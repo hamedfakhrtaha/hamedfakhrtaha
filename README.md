@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hamedfakhrtaha
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Civil Engineering Programing
 - 💞️ I’m looking to collaborate on Environmental Engineering Programing
 - 📫 How to reach me https://instagram.com/hamedfakhrtaha?utm_medium=copy_link
